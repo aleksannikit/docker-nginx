@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM armhf/alpine
 
 MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
 
